@@ -1,0 +1,26 @@
+{
+  "name": "brighthr",
+  "version": "1.0.0",
+  "description": "Adding employees",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dolland1/brighthr.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/dolland1/brighthr/issues"
+  },
+  "homepage": "https://github.com/dolland1/brighthr#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.51.1",
+    "@types/node": "^22.13.14"
+  },
+  "dependencies": {
+    "moment": "^2.30.1"
+  }
+}
